@@ -1,4 +1,4 @@
-<h1 align="center">Todo App, :writing_hand:</h1>
+<h1 align="center">Todo App :writing_hand:</h1>
 <div align="center">
   React-Native로 만든 Todo 애플리케이션
 </div>
