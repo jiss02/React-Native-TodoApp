@@ -18,3 +18,13 @@
     "react-native-web": "^0.11.7"
   }
 ```
+
+## Demo
+
+<div align="center">
+  
+| main |
+| :--: |
+| <img src="https://cdn-class.likelion.org/media/submissions/V85XDVPsoO1ASM.jpg" width="450"/> |
+  
+</div>
