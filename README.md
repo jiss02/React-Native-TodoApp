@@ -67,6 +67,6 @@ yarn global add react-native-cli
   
 | main |
 | :--: |
-| <img src="https://cdn-class.likelion.org/media/submissions/V85XDVPsoO1ASM.jpg" width="450"/> |
+| <img src="https://cdn-class.likelion.org/media/submissions/V85XDVPsoO1ASM.jpg" height="720"/> |
   
 </div>
