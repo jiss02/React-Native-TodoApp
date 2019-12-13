@@ -5,16 +5,29 @@
 
 ## Table of Contents
 
-* [Tech Stack](#tech-stack)
-* [Running the project](#running-the-project)
-* [Dependencies](#dependencies) 
+* [About The Project](#about-the-project)
+  * [Tech Stack](#tech-stack)
+* [Getting Started](#getting-started)
+  * [Running the project](#running-the-project)
+  * [Dependencies](#dependencies) 
 * [Demo](#Demo)
 
-## Tech Stack
+## About The Project
+
+<div align="center">
+<br/>
+멋쟁이 사자처럼 앱 개발 과제 <br/>
+    <b>하루의 할일을 정리해보자, 하루투두</b>
+</div>
+&nbsp;
+
+### Tech Stack
 
  - React-Native
  
-## Running the project
+## Getting Started
+ 
+### Running the project
 
 - Clone this project
 
@@ -37,7 +50,7 @@ git clone https://github.com/jiss02/React-Native-TodoApp.git
 yarn global add react-native-cli
 ```
 
-## Dependencies
+### Dependencies
 ```
  "dependencies": {
     "expo": "^35.0.0",
